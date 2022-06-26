@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sql</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="add_name">Add</string>
+    <string name="print_name">Print</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>
